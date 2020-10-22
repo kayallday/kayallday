@@ -1,16 +1,15 @@
-### Hi there 👋
+```js
+#inlclude<life.h>
 
-<!--
-**kayallday/kayallday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+//algorithm of success
+while (noSuccess)
+{
+    tryAgain();
+    if (Success)
+        improve();
+}
+```
 
-Here are some ideas to get you started:
+Kelsey Beard | Software Engineer In Test
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Find me on LinkedIn: https://www.linkedin.com/in/kmbeard/
